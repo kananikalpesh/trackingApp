@@ -1,0 +1,276 @@
+{
+    "namaste": "Namaste",
+    "appDescription": "Healthy Hustle is there to improve your work-life balance. Track your daily mood and work to identify how both are connected.",
+    "trackYourMood": "Track your mood",
+    "trackYourMoodDescription": "Estimate your mood and optionally write down what you're grateful for.",
+    "trackYourWork": "Track your work",
+    "trackYourWorkDescription": "To identify how your work influences your mood track your daily revenue and work time.",
+    "sayHelloToCalendar": "Mood Calendar",
+    "monthlyOverview": "Monthly overview",
+    "monthlyOverviewDescription": "The calendar gets you a monthly overview of tracked days.",
+    "updateDays": "Update days",
+    "updateDaysDescription": "Update your tracked entries anytime in the calendar view.",
+    "addMissedDays": "Add missed days",
+    "addMissedDaysDescription": "Add entries in the past to get full overview of your mood and work.",
+    "giveVisitToAnalysis": "Mood Analysis",
+    "analyzeYourProgress": "Analyze your progress",
+    "analyzeYourProgressDescription": "Get better understanding of the correlation between your mood and work by using the chart.",
+    "showTrackedData": "Show tracked data",
+    "showTrackedDataDescription": "Select day in the line chart to get tracked mood and work details.",
+    "getHighestValues": "Get highest values",
+    "getHighestValuesDescription": "Get your best mood, longest work time, and highest revenue values in the selected time range.",
+    "appInitFailed": "App initialization failed.",
+    "trackMood": "Track",
+    "trackToday": "Track today",
+    "updateToday": "Update today",
+    "moodTrackedSuccessfully": "Mood tracked successfully!",
+    "somethingWentWrong": "Something went wrong here. Please try again.",
+    "howAreYouFeeling": "Mood estimation",
+    "estimateYourMood": "Take a deep breath and estimate your mood on a scale from 1 to 10.",
+    "whatAreYouGreatfulFor": "What are you grateful for?",
+    "writeDownThingsYouAreGreatfulFor": "Write down 3 things you're grateful for.",
+    "affirmation1": "Love and support I experienced",
+    "affirmation2": "The challenge that makes me grow",
+    "affirmation3": "Unterstanding and compassion I received",
+    "howMuchDidYouEarn": "How much did you earn?",
+    "howMuchDidYouEarnDescription": "Track your revenue so you can see how it correlates with your mood.",
+    "howLongDidYouWork": "How long did you work?",
+    "howLongDidYouWorkDescription": "Track your work time to see how it correlates with your mood.",
+    "hours": "hours",
+    "minutes": "minutes",
+    "yourWorkTime": "Select work time",
+    "recommandedWorkTimeExceeded": "You have exceeded the recommended work time of 6 hours.",
+    "revenueHelper": "Revenue in {currency}",
+    "@revenueHelper": {
+        "placeholders": {
+            "currency": {
+                "type": "String",
+                "example": "USD"
+            }
+        }
+    },
+    "home": "Home",
+    "weekProgress": "Your progress this week",
+    "progressDoingGreat": "Be proud of yourself!",
+    "progressDoingGood": "You got this!",
+    "progressTrackedEveryDay": "You have tracked your mood every day this week.",
+    "progressTrackedAlmostEveryDay": "Complete your progress by using the calendar.",
+    "progressTrackNow": "Track your mood to evaluate your progress.",
+    "averageMood": "Average\nmood",
+    "averageWorkHours": "Average\nwork time",
+    "averageRevenue": "Average\nrevenue",
+    "recentlyTracked": "Recently tracked",
+    "seeAll": "See all",
+    "moodHistoryTitle": "All entries",
+    "goodMorning": "Good morning,",
+    "goodAfternoon": "Good afternoon,",
+    "goodEvening": "Good evening,",
+    "today": "Today",
+    "settings": "Settings",
+    "signOutMessage": "Are you sure you want to sign out?",
+    "cancel": "Cancel",
+    "deleteAccount": "Delete account",
+    "accountDeletion": "Account deletion",
+    "accountDeletionMessage": "All your data will be deleted.\n\nAre you sure you want to delete your account?",
+    "delete": "Delete",
+    "selectEmoji": "Select your Hustle animal",
+    "emojiUpdatedSuccessfully": "Hustle animal updated successfully!",
+    "account": "Account",
+    "personalDetails": "Personal details",
+    "general": "General",
+    "support": "Support",
+    "termsOfService": "Terms of service",
+    "privacyPolicy": "Privacy policy",
+    "moodUpdatedSuccessfully": "Entry updated successfully!",
+    "moodDeletedSuccessfully": "Entry deleted successfully!",
+    "updateMood": "Update",
+    "deleteMood": "Delete entry",
+    "deleteMoodMessage": "Are you sure you want to delete this entry?",
+    "profileUpdatedSuccessfully": "Profile updated successfully!",
+    "calendar": "Calendar",
+    "trackedMood": "Tracked entries",
+    "noTrackedMood": "You have not tracked any days in the selected month.",
+    "analysis": "Analysis",
+    "greatestMood": "Best\nmood",
+    "greatestWorkTime": "Longest\nwork time",
+    "greatestRevenue": "Highest\nrevenue",
+    "mood": "Mood",
+    "workTime": "Work time",
+    "revenue": "Revenue",
+    "showRevenue": "Show revenue",
+    "showWorkTime": "Show work time",
+    "mode": "Mode",
+    "monthly": "Monthly",
+    "weekly": "Weekly",
+    "savingGraphSettingsFailed": "Saving display settings failed. They won't be applied next time you open the app.",
+    "calendarWeek": "CW {weekNumber}",
+    "@calendarWeek": {
+        "placeholders": {
+            "weekNumber": {
+                "type": "int"
+            }
+        }
+    },
+    "display": "Display",
+    "lines": "Lines",
+    "ok": "OK",
+    "appSettings": "Preferences",
+    "appSettingsSaved": "Preferences saved successfully!",
+    "currency": "Currency",
+    "currencySettingDescription": "Currency to display symbol of for revenue tracking",
+    "commonCurrencies": "Common currencies",
+    "otherCurrencies": "Other currencies",
+    "presetRevenue": "Preset revenue",
+    "presetRevenueDescription": "Revenue preset for quick tracking",
+    "presetWorkTime": "Preset work time",
+    "presetWorkTimeDescription": "Work time preset for quick tracking",
+    "update": "Update",
+    "givenNameMustNotBeBlank": "Write how I should call you in the app.",
+    "subscriptionPurchaseSuccessful": "You have now unlimited access to the app!",
+    "subscriptionPurchaseFailed": "Error during purchase. Please try again.",
+    "subscriptionPurchaseCancelled": "You need a subscription to use this feature.",
+    "subscriptionPurchaseRestored": "Your subscription has been restored.",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "confirm": "Confirm",
+    "continueLabel": "Continue",
+    "submit": "Submit",
+    "changePassword": "Change Password",
+    "sendCode": "Send code again",
+    "lostCode": "Lost your code?",
+    "verify": "Verify",
+    "signOut": "Sign Out",
+    "signInWith": "Sign In with {provider}",
+    "@signInWith": {
+        "placeholders": {
+            "provider": {
+                "type": "String",
+                "example": "Google"
+            }
+        }
+    },
+    "noAccount": "No account?",
+    "haveAccount": "Have an account?",
+    "forgotPassword": "Forgot your password?",
+    "confirmResetPassword": "Reset Password",
+    "backTo": "Back to {previousStep}",
+    "@backTo": {
+        "placeholders": {
+            "previousStep": {
+                "type": "String",
+                "example": "Sign In"
+            }
+        }
+    },
+    "skip": "Skip",
+    "copyKey": "Copy Key",
+    "confirmSignUp": "Confirm Sign-up",
+    "confirmSignInMfa": "Confirm Sign-in",
+    "confirmSignInNewPassword": "Confirm Sign-in",
+    "resetPassword": "Reset Password",
+    "verifyUser": "Verify User",
+    "confirmVerifyUser": "Confirm Verify User",
+    "username": "Username",
+    "password": "Password",
+    "newPassword": "New Password",
+    "passwordConfirmation": "Confirm Password",
+    "verificationCode": "Verification Code",
+    "customAuthChallenge": "Confirmation Code",
+    "address": "Address",
+    "birthdate": "Birthdate",
+    "email": "Email",
+    "familyName": "Family Name",
+    "gender": "Gender",
+    "givenName": "First Name",
+    "middleName": "Middle Name",
+    "name": "Name",
+    "nickname": "Nickname",
+    "phoneNumber": "Phone Number",
+    "preferredUsername": "Preferred Username",
+    "rememberDevice": "Remember Device?",
+    "selectSms": "Text Message (SMS)",
+    "selectTotp": "Authenticator App (TOTP)",
+    "totpCodePrompt": "Please enter the code from your registered Authenticator app",
+    "usernameType": "Log in using:",
+    "promptFill": "Enter your {attribute}",
+    "@promptFill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "promptRefill": "Re-enter your {attribute}",
+    "@promptRefill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnEmpty": "{attribute} field must not be blank.",
+    "@warnEmpty": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnInvalidFormat": "Invalid {attributeType} format.",
+    "@warnInvalidFormat": {
+        "placeholders": {
+            "attributeType": {
+                "type": "String",
+                "example": "password"
+            }
+        }
+    },
+    "usernameRequirements": "Username must only contain alphanumeric characters and symbols.",
+    "optional": "{fieldTitle} (optional)",
+    "@optional": {
+        "placeholders": {
+            "fieldTitle": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "passwordRequirementsPreamble": "Your password must include:",
+    "passwordRequirementsAtLeast": "at least {numCharacters, plural, =1{1{characterType} character} other{{numCharacters}{characterType} characters}}",
+    "@passwordRequirementsAtLeast": {
+        "placeholders": {
+            "numCharacters": {
+                "type": "int"
+            },
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "passwordRequirementsCharacterType": "{characterType, select, requiresUppercase{uppercase} requiresLowercase{lowercase} requiresNumbers{number} requiresSymbols{symbol} other{}}",
+    "@passwordRequirementsCharacterType": {
+        "placeholders": {
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSent": "A confirmation code has been sent to {destination}",
+    "@codeSent": {
+        "placeholders": {
+            "destination": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSentUnknown": "A confirmation code has been sent.",
+    "copySucceeded": "Copied to clipboard!",
+    "copyFailed": "Copy to clipboard failed.",
+    "confirmSignInCustomAuth": "Enter your sign in code'",
+    "continueSignInWithMfaSelection": "Select your preferred Two-Factor Auth method",
+    "continueSignInWithTotpSetup": "Enable Two-Factor Auth",
+    "confirmSignInWithTotpMfaCode": "Enter your one-time passcode"
+}

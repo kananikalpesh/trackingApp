@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679937544462",
+    "project_id": "mindful-me-project",
+    "storage_bucket": "mindful-me-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679937544462:android:55296f112815c22b0fc75f",
+        "android_client_info": {
+          "package_name": "app.healthyhustle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKVoTfCEgOp0GkPO1JvDIU45ryBucIJKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

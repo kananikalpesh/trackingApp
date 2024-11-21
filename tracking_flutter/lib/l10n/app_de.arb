@@ -1,0 +1,276 @@
+{
+    "namaste": "Namaste",
+    "appDescription": "Healthy Hustle hilft dir deine Work-Life Balance zu verbessern. Zeichne täglich deine Stimmung und Arbeit auf, um herauszufinden, wie beide zusammenhängen.",
+    "trackYourMood": "Zeichne deine Stimmung auf",
+    "trackYourMoodDescription": "Schätze deine Stimmung ein und schreibe optional wofür du dankbar bist.",
+    "trackYourWork": "Zeichne deine Arbeit auf",
+    "trackYourWorkDescription": "Um herauszufinden, wie deine Arbeit deine Stimmung beeinflusst, zeichne deinen Umsatz und wie lange du gearbeitet hast auf.",
+    "sayHelloToCalendar": "Stimmungs-Kalender",
+    "monthlyOverview": "Monatlicher Überblick",
+    "monthlyOverviewDescription": "Der Kalender gibt dir einen monatlichen Überblick über deine aufgezeichneten Einträge.",
+    "updateDays": "Tage aktualisieren",
+    "updateDaysDescription": "Bearbeite jederzeit aufgezeichnete Einträge in der Kalenderansicht.",
+    "addMissedDays": "Verpasste Tage hinzufügen",
+    "addMissedDaysDescription": "Füge Einträge aus der Vergangenheit hinzu, um deinen Fortschritt zu vervollständigen.",
+    "giveVisitToAnalysis": "Stimmungs-Analyse",
+    "analyzeYourProgress": "Analysiere deinen Fortschritt",
+    "analyzeYourProgressDescription": "Bekomme ein besseres Verständnis der Korrelation zwischen deiner Stimmung und Arbeit.",
+    "showTrackedData": "Zeige aufgezeichnete Daten",
+    "showTrackedDataDescription": "Wähle einen Tag im Diagramm aus um Details zu dem aufgezeichneten Eintrag zu sehen.",
+    "getHighestValues": "Höchste Werte",
+    "getHighestValuesDescription": "Finde deine beste Stimmung, längste Arbeitszeit und höchsten Umsatz im ausgewählten Zeitraum heraus.",
+    "appInitFailed": "Fehler bei Initialisierung der App.",
+    "trackMood": "Hinzufügen",
+    "trackToday": "Heute aufzeichnen",
+    "updateToday": "Heute ändern",
+    "moodTrackedSuccessfully": "Stimung erfolgreich aufgezeichnet!",
+    "somethingWentWrong": "Hier ist etwas schiefgegangen. Bitte versuche es erneut.",
+    "howAreYouFeeling": "Schätze deine Stimmung ein",
+    "estimateYourMood": "Atme tief durch und schätze deine Stimmung auf einer Skala von 1 bis 10.",
+    "whatAreYouGreatfulFor": "Wofür bist du dankbar?",
+    "writeDownThingsYouAreGreatfulFor": "Schreibe 3 Dinge auf.",
+    "affirmation1": "Liebe und Unterstützung, die ich bekommen habe",
+    "affirmation2": "Die Herausforderung, die mich wachsen lässt",
+    "affirmation3": "Verständnis und Geduld",
+    "howMuchDidYouEarn": "Wie viel hast du eingenommen?",
+    "howMuchDidYouEarnDescription": "Zeichne deinen Umsatz auf, um zu sehen, wie er sich auf deine Stimmung auswirkt.",
+    "howLongDidYouWork": "Wie lange hast du gearbeitet?",
+    "howLongDidYouWorkDescription": "Zeichne deine Arbeitszeit auf, um zu sehen, wie sie sich auf deine Stimmung auswirkt.",
+    "hours": "Stunden",
+    "minutes": "Minuten",
+    "yourWorkTime": "Wähle die Arbeitszeit",
+    "recommandedWorkTimeExceeded": "Du hast die empfohlene Arbeitszeit von 6 Stunden überschritten.",
+    "revenueHelper": "Umsatz in {currency}",
+    "@revenueHelper": {
+        "placeholders": {
+            "currency": {
+                "type": "String",
+                "example": "USD"
+            }
+        }
+    },
+    "home": "Home",
+    "weekProgress": "Dein Fortschritt diese Woche",
+    "progressDoingGreat": "Sei stolz auf dich!",
+    "progressDoingGood": "Du schaffst das!",
+    "progressTrackedEveryDay": "Du hast diese Woche jeden Tag deine Stimmung aufgezeichnet.",
+    "progressTrackedAlmostEveryDay": "Vervollständige deinen Fortschritt im Kalender.",
+    "progressTrackNow": "Zeichne deine heutige Stimmung und Arbeit auf.",
+    "averageMood": "Durchschn.\nStimmung",
+    "averageWorkHours": "Durchschn.\nArbeitszeit",
+    "averageRevenue": "Durchschn.\nUmsatz",
+    "recentlyTracked": "Zuletzt aufgezeichnet",
+    "seeAll": "Alle anzeigen",
+    "moodHistoryTitle": "Alle Einträge",
+    "goodMorning": "Guten Morgen,",
+    "goodAfternoon": "Guten Tag,",
+    "goodEvening": "Guten Abend,",
+    "today": "Heute",
+    "settings": "Einstellungen",
+    "signOutMessage": "Bist du dir sicher, dass du dich ausloggen möchtest?",
+    "cancel": "Abbrechen",
+    "deleteAccount": "Account löschen",
+    "accountDeletion": "Account Löschen",
+    "accountDeletionMessage": "Alle deine Daten werden gelöscht.\n\nBist du dir sicher, dass dein Account gelöscht werden soll?",
+    "delete": "Löschen",
+    "selectEmoji": "Wähle dein Hustle-Tier",
+    "emojiUpdatedSuccessfully": "Hustle-Tier erfolgreich geändert!",
+    "account": "Account",
+    "personalDetails": "Persönliche Details",
+    "general": "Allgemein",
+    "support": "Support",
+    "termsOfService": "Nutzungsbedingungen",
+    "privacyPolicy": "Datenschutz",
+    "moodUpdatedSuccessfully": "Eintrag erfolgreich geändert!",
+    "moodDeletedSuccessfully": "Eintrag erfolgreich gelöscht!",
+    "updateMood": "Ändern",
+    "deleteMood": "Eintrag löschen",
+    "deleteMoodMessage": "Sicher, dass du diesen Eintrag löschen möchtest?",
+    "profileUpdatedSuccessfully": "Persönliche Details erfolgreich editiert!",
+    "calendar": "Kalender",
+    "trackedMood": "Aufgezeichnete Einträge",
+    "noTrackedMood": "In dem ausgewählten Monat wurden keine Tage aufgezeichnet.",
+    "analysis": "Analyse",
+    "greatestMood": "Beste Stimmung",
+    "greatestWorkTime": "Längste Arbeitszeit",
+    "greatestRevenue": "Höchster Umsatz",
+    "mood": "Stimmung",
+    "workTime": "Arbeitszeit",
+    "revenue": "Umsatz",
+    "showRevenue": "Umsatz anzeigen",
+    "showWorkTime": "Arbeitszeit anzeigen",
+    "mode": "Modus",
+    "monthly": "Monatlich",
+    "weekly": "Wöchentlich",
+    "savingGraphSettingsFailed": "Speichern der Anzeigeeinstellungen fehlgeschlagen. Sie werden beim nächsten App-Start nicht übernommen.",
+    "calendarWeek": "KW {weekNumber}",
+    "@calendarWeek": {
+        "placeholders": {
+            "weekNumber": {
+                "type": "int"
+            }
+        }
+    },
+    "display": "Anzeige",
+    "lines": "Linien",
+    "ok": "OK",
+    "appSettings": "Präferenzen",
+    "appSettingsSaved": "Präferenzen erfolgreich gespeichert!",
+    "currency": "Währung",
+    "currencySettingDescription": "Symbol der ausgewählten Währung wird in der App angezeigt",
+    "commonCurrencies": "Häufige Währungen",
+    "otherCurrencies": "Andere Währungen",
+    "presetRevenue": "Voreingestellter Umsatz",
+    "presetRevenueDescription": "Voreingestellter Umsatz wird automatisch eingetragen",
+    "presetWorkTime": "Voreingestellte Arbeitszeit",
+    "presetWorkTimeDescription": "Voreingestellte Arbeitszeit wird automatisch eingetragen",
+    "update": "Ändern",
+    "givenNameMustNotBeBlank": "Schreibe, wie ich dich in der App nennen soll.",
+    "subscriptionPurchaseSuccessful": "Du kannst die App jetzt unbeschränkt nutzen!",
+    "subscriptionPurchaseFailed": "Fehler beim Kauf. Bitte versuche es erneut.",
+    "subscriptionPurchaseCancelled": "Um diese Funktion zu nutzen, benötigst du ein Abonnement.",
+    "subscriptionPurchaseRestored": "Dein Abonnement wurde wiederhergestellt.",
+    "signIn": "Anmeldung",
+    "signUp": "Registrierung",
+    "confirm": "Bestätigen",
+    "continueLabel": "Weiter",
+    "submit": "Absenden",
+    "changePassword": "Passwort ändern",
+    "sendCode": "Code erneut anfordern",
+    "lostCode": "Code verloren?",
+    "verify": "Verifizieren",
+    "signOut": "Ausloggen",
+    "signInWith": "Anmelden mit {provider}",
+    "@signInWith": {
+        "placeholders": {
+            "provider": {
+                "type": "String",
+                "example": "Google"
+            }
+        }
+    },
+    "noAccount": "Kein Nutzerkonto?",
+    "haveAccount": "Nutzerkonto vorhanden?",
+    "forgotPassword": "Passwort vergessen?",
+    "confirmResetPassword": "Passwort zurücksetzen",
+    "backTo": "Zurück zu {previousStep}",
+    "@backTo": {
+        "placeholders": {
+            "previousStep": {
+                "type": "String",
+                "example": "Anmeldung"
+            }
+        }
+    },
+    "skip": "Überspringen",
+    "copyKey": "Schlüssel kopieren",
+    "confirmSignUp": "Registrierung bestätigen",
+    "confirmSignInMfa": "Anmeldung bestätigen",
+    "confirmSignInNewPassword": "Anmeldung bestätigen",
+    "resetPassword": "Passwort zurücksetzen",
+    "verifyUser": "Nutzer Verifizieren",
+    "confirmVerifyUser": "Nutzer Verifizieren bestätigen",
+    "username": "Nutzername",
+    "password": "Passwort",
+    "newPassword": "Neues Passwort",
+    "passwordConfirmation": "Passwort bestätigen",
+    "verificationCode": "Verifizierungscode",
+    "customAuthChallenge": "Bestätigungscode",
+    "address": "Adresse",
+    "birthdate": "Geburtsdatum",
+    "email": "Email",
+    "familyName": "Familienname",
+    "gender": "Geschlecht",
+    "givenName": "Vorname",
+    "middleName": "Zweiter Vorname",
+    "name": "Name",
+    "nickname": "Nickname",
+    "phoneNumber": "Telefonnummer",
+    "preferredUsername": "Präferierter Nutzername",
+    "rememberDevice": "Gerät merken",
+    "selectSms": "Textnachricht (SMS)",
+    "selectTotp": "Authenticator App (TOTP)",
+    "totpCodePrompt": "Bitte gebe den Code aus deiner registrierten Authenticator App ein",
+    "usernameType": "Zur Anmeldung verwenden:",
+    "promptFill": "{attribute} eingeben",
+    "@promptFill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "promptRefill": "{attribute} erneut eingeben",
+    "@promptRefill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnEmpty": "Feld {attribute} darf nicht leer sein.",
+    "@warnEmpty": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnInvalidFormat": "{attributeType} hat inkorrektes Format.",
+    "@warnInvalidFormat": {
+        "placeholders": {
+            "attributeType": {
+                "type": "String",
+                "example": "password"
+            }
+        }
+    },
+    "usernameRequirements": "Nutzername darf nur alphanumerische Zeichen und Sonderzeichen beinhalten.",
+    "optional": "{fieldTitle} (optional)",
+    "@optional": {
+        "placeholders": {
+            "fieldTitle": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "passwordRequirementsPreamble": "Dein Password muss Folgendes beinhalten:",
+    "passwordRequirementsAtLeast": "mindestens {numCharacters, plural, =1{1{characterType}} other{{numCharacters}{characterType} Zeichen}}",
+    "@passwordRequirementsAtLeast": {
+        "placeholders": {
+            "numCharacters": {
+                "type": "int"
+            },
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "passwordRequirementsCharacterType": "{characterType, select, requiresUppercase{Großbuchstabe} requiresLowercase{Kleinbuchstabe} requiresNumbers{Zahl} requiresSymbols{Sonderzeichen} other{}}",
+    "@passwordRequirementsCharacterType": {
+        "placeholders": {
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSent": "Bestätigungscode wurde gesendet an {destination}",
+    "@codeSent": {
+        "placeholders": {
+            "destination": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSentUnknown": "Bestätigungscode wurde versendet.",
+    "copySucceeded": "In die Zwischenablage kopiert!",
+    "copyFailed": "Fehler beim Kopieren in die Zwischenablage.",
+    "confirmSignInCustomAuth": "Gebe deinen Code zur Anmeldung ein'",
+    "continueSignInWithMfaSelection": "Wähle deine bevorzugte Methode für die Zwei-Faktor-Authentisierung aus",
+    "continueSignInWithTotpSetup": "Zwei-Faktor-Authentisierung Aktivieren",
+    "confirmSignInWithTotpMfaCode": "Gebe dein Einmal-Passwort ein"
+}
